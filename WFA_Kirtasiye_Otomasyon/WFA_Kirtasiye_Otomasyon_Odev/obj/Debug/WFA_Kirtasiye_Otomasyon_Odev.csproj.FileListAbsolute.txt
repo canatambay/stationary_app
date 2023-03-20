@@ -1,0 +1,36 @@
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe.config
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Form1.resources
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Properties.Resources.resources
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_kirtasiye.resources
+C:\Users\Hp\Desktop\c_sharp_projeler\form\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_Fis.resources
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe.config
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csprojAssemblyReference.cache
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Form1.resources
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_Fis.resources
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_kirtasiye.resources
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Properties.Resources.resources
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.GenerateResource.cache
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.CoreCompileInputs.cache
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+E:\visual_projeler\Formlar\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe.config
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\bin\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csprojAssemblyReference.cache
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Form1.resources
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_Fis.resources
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.frm_kirtasiye.resources
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.Properties.Resources.resources
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.GenerateResource.cache
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.csproj.CoreCompileInputs.cache
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.exe
+C:\Users\canat\OneDrive\Masaüstü\Yeni klasör (3)\WFA_Kirtasiye_Otomasyon_Odev\WFA_Kirtasiye_Otomasyon_Odev\obj\Debug\WFA_Kirtasiye_Otomasyon_Odev.pdb
